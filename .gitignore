@@ -1,4 +1,6 @@
 # Prerequisites
+build/
+.idea/
 *.d
 
 # Compiled Object files
