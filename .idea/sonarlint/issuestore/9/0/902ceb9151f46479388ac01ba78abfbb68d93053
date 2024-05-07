@@ -1,0 +1,38 @@
+
+/	cpp:S1481y"unused variable 'bmp'(‚½²şÿÿÿÿ
+0	cpp:S1481"unused variable 'bmp'(‚½²şÿÿÿÿ
+L	cpp:S1117Â"6declaration shadows a variable in the global namespace(ãüÎã
+0	cpp:S1481×"unused variable 'bmp'(‚½²şÿÿÿÿ
+0	cpp:S1481é"unused variable 'bmp'(‚½²şÿÿÿÿ
+6	cpp:S5421"!Global variables should be const.(±§´©
+6	cpp:S5421"!Global variables should be const.(ğ™•…
+;	cpp:S5421"!Global variables should be const.(øÕ ±ÿÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(µªÀ»ùÿÿÿÿ
+6	cpp:S5421"!Global variables should be const.(·ß¹
+^	cpp:S12383"DPass expensive to copy object "json_filename" by reference to const.(é”å¥üÿÿÿÿ
+t	cpp:S11723"ZRemove the unused parameter "init_pop", make it unnamed, or declare it "[[maybe_unused]]".(é”å¥üÿÿÿÿ
+¤cpp:S9953"ŠMake the type of this parameter a reference-to-const. The current type of "init_pop" is "class std::vector<class std::vector<double> > &".(é”å¥üÿÿÿÿ
+š	cpp:S60456"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(şé˜€
+b	cpp:S6004W"HUse the init-statement to declare "curr_parcel" inside the if statement.(ĞÄøìşÿÿÿÿ
+n	cpp:S3776E"TRefactor this function to reduce its Cognitive Complexity from 39 to the 25 allowed.(ËÑàúÿÿÿÿ
+fcpp:S134v"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ëíş×ıÿÿÿÿ
+fcpp:S134y"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚½²şÿÿÿÿ
+gcpp:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚½²şÿÿÿÿ
+;	cpp:S6197W"!Replace with "std::ranges::find".(ĞÄøìşÿÿÿÿ
+S	cpp:S6032q"9Avoid this unnecessary copy by using a "const" reference.(òòîöıÿÿÿÿ
+;	cpp:S6197v"!Replace with "std::ranges::find".(ëíş×ıÿÿÿÿ
+O	cpp:S6032Œ"9Avoid this unnecessary copy by using a "const" reference.(®Óü‘
+‚	cpp:S6012Ÿ"gAvoid explicitly specifying the template arguments by relying on the class template argument deduction.(¨åÎÿøÿÿÿÿ
+j	cpp:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 45 to the 25 allowed.(ãüÎã
+D	cpp:S5955ö")Declare the variable "k" inside the loop.(¯Ãâÿÿÿÿÿ
+gcpp:S134Ô"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ëíş×ıÿÿÿÿ
+gcpp:S134×"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚½²şÿÿÿÿ
+gcpp:S134é"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚½²şÿÿÿÿ
+bcpp:S134ø"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(§©¶Û
+K	cpp:S1659Ä"0Define each identifier in a dedicated statement.(µ„ëŞùÿÿÿÿ
+T	cpp:S6032Ğ"9Avoid this unnecessary copy by using a "const" reference.(òòîöıÿÿÿÿ
+<	cpp:S6197Ô"!Replace with "std::ranges::find".(ëíş×ıÿÿÿÿ
+O	cpp:S6032æ"9Avoid this unnecessary copy by using a "const" reference.(®Óü‘
+:cpp:S125"Remove the commented out code.(–±Ù8†í‡³1
+>cpp:S125w"Remove the commented out code.(²‹–´øÿÿÿÿ8†í‡³1
+:cpp:S125¯"Remove the commented out code.(öÄ¢€8†í‡³1

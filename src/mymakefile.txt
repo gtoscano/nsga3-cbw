@@ -1,0 +1,102 @@
+CXX	=	g++
+CXXFLAGS	=	-g -std=c++2a -pipe  -Wall  -lparquet -larrow -lcrossguid -luuid -lfmt -laws-cpp-sdk-s3 -laws-cpp-sdk-core -lredis++ -lhiredis -pthread -lparquet -larrow -lSimpleAmqpClient -lboost_thread -lboost_log -lboost_log_setup -lpthread  
+LINK	=	g++
+LFLAGS	=	
+LIBS = `PKG_CONFIG_PATH=/usr/local/lib/pkgconfig: pkg-config --libs fmt` -lredis++ -lhiredis -pthread -lparquet -larrow -lcrossguid -luuid -lfmt -laws-cpp-sdk-s3 -laws-cpp-sdk-core -lSimpleAmqpClient -lboost_thread -lboost_log -lboost_log_setup -lpthread  --std=c++2a 
+
+
+
+CURRENT_DIR = $(nsga3)
+SRC_DIR   =	.
+
+INCPATH = -Isrc
+TAR     =       tar cvf
+GZIP    =       gzip -9f
+
+####### Files
+
+SRC_H =		$(SRC_DIR)/global.h \
+		$(SRC_DIR)/rand.h \
+		$(SRC_DIR)/misc.hpp
+
+SRC_SRC =	$(SRC_DIR)/allocate.cpp \
+		$(SRC_DIR)/auxiliary.cpp \
+		$(SRC_DIR)/crossover.cpp \
+		$(SRC_DIR)/decode.cpp \
+		$(SRC_DIR)/display.cpp \
+		$(SRC_DIR)/dominance.cpp \
+		$(SRC_DIR)/elitist_sorting.cpp \
+		$(SRC_DIR)/eval.cpp \
+		$(SRC_DIR)/ideal.cpp \
+		$(SRC_DIR)/initialize.cpp  \
+		$(SRC_DIR)/list.cpp \
+		$(SRC_DIR)/merge.cpp \
+		$(SRC_DIR)/mutation.cpp \
+		$(SRC_DIR)/problemdef.cpp \
+		$(SRC_DIR)/rand.cpp \
+		$(SRC_DIR)/rank.cpp \
+		$(SRC_DIR)/reference_point.cpp \
+		$(SRC_DIR)/report.cpp \
+		$(SRC_DIR)/nsga3r.cpp \
+		$(SRC_DIR)/misc2.cpp \
+		$(SRC_DIR)/tourselect.cpp
+		
+SRC_OBJ =	$(SRC_DIR)/allocate.o \
+		$(SRC_DIR)/auxiliary.o \
+		$(SRC_DIR)/crossover.o \
+		$(SRC_DIR)/decode.o \
+		$(SRC_DIR)/display.o \
+		$(SRC_DIR)/dominance.o \
+		$(SRC_DIR)/elitist_sorting.o \
+		$(SRC_DIR)/eval.o \
+		$(SRC_DIR)/ideal.o \
+		$(SRC_DIR)/initialize.o  \
+		$(SRC_DIR)/list.o \
+		$(SRC_DIR)/merge.o \
+		$(SRC_DIR)/mutation.o \
+		$(SRC_DIR)/problemdef.o \
+		$(SRC_DIR)/rand.o \
+		$(SRC_DIR)/rank.o \
+		$(SRC_DIR)/reference_point.o \
+		$(SRC_DIR)/report.o \
+		$(SRC_DIR)/tourselect.o \
+		$(SRC_DIR)/misc2.o 
+
+
+TARGET =	nsga3r
+
+####### Implicit rules
+
+.SUFFIXES: .cpp
+
+.cpp.o:
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o $@ $<
+
+####### Build rules
+
+
+.PHONY: dist clean realclean targets
+
+all: $(TARGET)
+
+$(TARGET): $(SRC_OBJ)
+	$(LINK) $(CXXFLAGS) -o $@ $@.cpp $(SRC_OBJ) $(LIBS) $(INCPATH)
+	@echo "Compiled "$@" successfully!"
+
+
+dist:
+	$(TAR)  nsga3.tar $(SRC_SRC) $(SRC_H) $(TARGET_SRC) Makefile input_data
+	$(GZIP) nsga3.tar
+
+clean:
+	-rm -f $(SRC_OBJ) $(TARGET) nsga3.tar.gz
+	-rm -f *~ core
+
+realclean:
+	-rm -f $(SRC_OBJ) $(TARGET) nsga3.tar.gz
+	-rm -f *~ core
+	-rm -f *.dat
+
+targets: $(TARGET) $(SRC) 
+
+

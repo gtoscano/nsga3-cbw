@@ -1,0 +1,10 @@
+
+J	cpp:S5955")Declare the variable "i" inside the loop.(Ô•¹şşÿÿÿÿ8‚“·šŒ1
+J	cpp:S5955)")Declare the variable "j" inside the loop.(¬¢„ùÿÿÿÿ8„“·šŒ1
+J	cpp:S5955+")Declare the variable "k" inside the loop.(¯Ãâÿÿÿÿÿ8„“·šŒ1
+hcpp:S1340"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(’ËÜ—8„“·šŒ1
+{cpp:S995%"`Make the type of this parameter a pointer-to-const. The current type of "ind" is "individual *".(êÅûØ8„“·šŒ1
+Q	cpp:S1659'"0Define each identifier in a dedicated statement.(µ„ëŞùÿÿÿÿ8„“·šŒ1
+E	cpp:S5955E")Declare the variable "j" inside the loop.(ù¥¾à8†“·šŒ1
+Q	cpp:S1659C"0Define each identifier in a dedicated statement.(°ÌÏ¬ûÿÿÿÿ8‡“·šŒ1
+Q	cpp:S1659D"0Define each identifier in a dedicated statement.(×Ö¸ªşÿÿÿÿ8‡“·šŒ1
