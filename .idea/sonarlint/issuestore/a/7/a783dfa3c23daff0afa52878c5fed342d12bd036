@@ -1,17 +1,0 @@
-
-G	cpp:S1103("&Remove the misleading "//" characters.(ãµğöúÿÿÿÿ8¶ßü”1
-p	cpp:S3776"TRefactor this function to reduce its Cognitive Complexity from 59 to the 25 allowed.(Œ¢š’8…ÎŸ’1
-hcpp:S134-"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(˜âˆ8¹’ı”1
-cpp:S995"dMake the type of this parameter a pointer-to-const. The current type of "parent1" is "individual *".(Œ¢š’8¸Õ´‰1
-cpp:S995"dMake the type of this parameter a pointer-to-const. The current type of "parent2" is "individual *".(Œ¢š’8¸Õ´‰1
-Q	cpp:S1659"0Define each identifier in a dedicated statement.(¯›é†øÿÿÿÿ8¹Õ´‰1
-Q	cpp:S1659"0Define each identifier in a dedicated statement.(„ÆÊüÿÿÿÿ8¹Õ´‰1
-Q	cpp:S1659 "0Define each identifier in a dedicated statement.(ŸÏ‘†şÿÿÿÿ8¹Õ´‰1
-F	cpp:S5955ƒ")Declare the variable "i" inside the loop.(şÕÖ’8Ç’ı”1
-„cpp:S995~"dMake the type of this parameter a pointer-to-const. The current type of "parent1" is "individual *".(ÜÇşíûÿÿÿÿ8Ç’ı”1
-„cpp:S995~"dMake the type of this parameter a pointer-to-const. The current type of "parent2" is "individual *".(ÜÇşíûÿÿÿÿ8Ç’ı”1
-ƒcpp:S995~"cMake the type of this parameter a pointer-to-const. The current type of "child1" is "individual *".(ÜÇşíûÿÿÿÿ8È’ı”1
-ƒcpp:S995~"cMake the type of this parameter a pointer-to-const. The current type of "child2" is "individual *".(ÜÇşíûÿÿÿÿ8È’ı”1
-R	cpp:S1659€"0Define each identifier in a dedicated statement.(¦¢Éëùÿÿÿÿ8È’ı”1
-R	cpp:S1659‚"0Define each identifier in a dedicated statement.(øËĞ·ûÿÿÿÿ8È’ı”1
-9cpp:S125$"Remove the commented out code.(–±Ù8šÃı”1

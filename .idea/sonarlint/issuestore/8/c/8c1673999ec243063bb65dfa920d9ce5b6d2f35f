@@ -1,271 +1,0 @@
-
-@	cpp:S1103F"&Remove the misleading "//" characters.(ƒ“úşÿÿÿÿ
-@	cpp:S1103G"&Remove the misleading "//" characters.(Á˜ç¤şÿÿÿÿ
-;	cpp:S1103H"&Remove the misleading "//" characters.(ÛØ´«
-@	cpp:S1103I"&Remove the misleading "//" characters.(Ìı¯ûÿÿÿÿ
-;	cpp:S1103J"&Remove the misleading "//" characters.(­Æ
-4	cpp:S1481"unused variable 'innoBmp'(¾£ûıÿÿÿÿ
->	cpp:S1481í"unused variable 'valid_bmps'(µó©ùüÿÿÿÿ8õÎÎ¶1
-¥	cpp:S5276–"‰implicit conversion loses integer precision: 'std::vector::size_type' (aka 'unsigned long') to 'std::vector<int>::value_type' (aka 'int')(©ëïïıÿÿÿÿ
-Ï	cpp:S5276ä"³implicit conversion loses integer precision: 'typename iterator_traits<__normal_iterator<basic_string<char> *, vector<basic_string<char>>>>::difference_type' (aka 'long') to 'int'(Ö¦ãˆúÿÿÿÿ
-z	cpp:S5276×"dimplicit conversion loses integer precision: 'std::vector::size_type' (aka 'unsigned long') to 'int'(—²’¬
-+	cpp:S1481³"unused variable 'idx'(Ç§ıé
-+	cpp:S1481­
-"unused variable 'idx'(Ç§ıé
-6	cpp:S1481õ" unused variable 'bmp_per_parcel'(¦ ÁÎ
-6	cpp:S1481"unused variable 'pct_accum'(¦ãûÿÿÿÿ
-A	cpp:S1103Ş"&Remove the misleading "//" characters.(ƒ“úşÿÿÿÿ
-Ï	cpp:S5276é"³implicit conversion loses integer precision: 'typename iterator_traits<__normal_iterator<basic_string<char> *, vector<basic_string<char>>>>::difference_type' (aka 'long') to 'int'(Ğÿ®Õşÿÿÿÿ
-/	cpp:S1481û"unused variable 'capital'(í¾£Ô
-.	cpp:S1481ä"unused variable 'h'(ÏÁéäûÿÿÿÿ
-.	cpp:S1481Ğ"unused variable 'nrows2'(÷øÚÛ
-/	cpp:S1481¦"unused variable 'load_lb'(éÀ¿
-:	cpp:S1481¥"unused variable 'load_obtained'(½çÍüÿÿÿÿ
-L	cpp:S1117ˆ"6declaration shadows a variable in the global namespace(ÙĞç¡
-+	cpp:S1481×"unused variable 'idx'(Ç§ıé
-2	cpp:S1481Ø"unused variable 'parcel_idx'(–¶Ş¹
-6	cpp:S1481Í"unused variable 'obj_value'(•Ü¦€úÿÿÿÿ
-?	cpp:S1117¶"$declaration shadows a local variable(š¨Ôşùÿÿÿÿ
-2	cpp:S1481—"unused variable 'parcel_idx'(–¶Ş¹
-+	cpp:S1481–"unused variable 'idx'(Ç§ıé
-=	cpp:S54211"!Global variables should be const.(¡È´Å8è«µ1
-B	cpp:S54213"!Global variables should be const.(“‹…âøÿÿÿÿ8è«µ1
-B	cpp:S54214"!Global variables should be const.(ù¦´Øÿÿÿÿÿ8è«µ1
-B	cpp:S54215"!Global variables should be const.(Æ¾èÒıÿÿÿÿ8è«µ1
-B	cpp:S54216"!Global variables should be const.(ıüôâøÿÿÿÿ8è«µ1
-B	cpp:S54217"!Global variables should be const.(„‘÷øúÿÿÿÿ8è«µ1
-B	cpp:S54218"!Global variables should be const.(™Ú¾ôûÿÿÿÿ8è«µ1
-B	cpp:S54219"!Global variables should be const.(í·´áúÿÿÿÿ8è«µ1
-=	cpp:S5421:"!Global variables should be const.(Œ²ÿÛ8è«µ1
-=	cpp:S5421;"!Global variables should be const.(šÄÏ³8‚è«µ1
-B	cpp:S5421<"!Global variables should be const.(ö¥˜Íüÿÿÿÿ8‚è«µ1
-=	cpp:S5421>"!Global variables should be const.(óÂ¨¥8‚è«µ1
-B	cpp:S5421?"!Global variables should be const.(–Íü¥ùÿÿÿÿ8‚è«µ1
-=	cpp:S5421A"!Global variables should be const.(ö¸µ¾8‚è«µ1
-=	cpp:S5421B"!Global variables should be const.(ÀëÊ8”è«µ1
-B	cpp:S5421C"!Global variables should be const.(Ìı¯ûÿÿÿÿ8¾Ï¶1
-B	cpp:S5421L"!Global variables should be const.(÷œß’øÿÿÿÿ8–è«µ1
-¦	cpp:S6045L"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(÷œß’øÿÿÿÿ8–è«µ1
-B	cpp:S5421M"!Global variables should be const.(ş³Ï¨ıÿÿÿÿ8–è«µ1
-¦	cpp:S6045M"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(ş³Ï¨ıÿÿÿÿ8–è«µ1
-B	cpp:S5421O"!Global variables should be const.(®¥Èÿÿÿÿÿÿ8–è«µ1
-¦	cpp:S6045O"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(®¥Èÿÿÿÿÿÿ8–è«µ1
-=	cpp:S5421P"!Global variables should be const.(Ïãçµ8–è«µ1
-¡	cpp:S6045P"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(Ïãçµ8–è«µ1
-=	cpp:S5421Q"!Global variables should be const.(‹Ìù8–è«µ1
-B	cpp:S5421R"!Global variables should be const.(ÿò®£úÿÿÿÿ8–è«µ1
-=	cpp:S5421S"!Global variables should be const.(«îÎë8–è«µ1
-¡	cpp:S6045S"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(«îÎë8–è«µ1
-=	cpp:S5421T"!Global variables should be const.(–äÒ8–è«µ1
-¡	cpp:S6045T"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(–äÒ8–è«µ1
-<	cpp:S5421U"!Global variables should be const.(ò´Ş}8–è«µ1
- 	cpp:S6045U"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(ò´Ş}8–è«µ1
-B	cpp:S5421V"!Global variables should be const.(Û‚øÿÿÿÿ8–è«µ1
-¦	cpp:S6045V"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(Û‚øÿÿÿÿ8–è«µ1
-=	cpp:S5421W"!Global variables should be const.(›àÑ8–è«µ1
-=	cpp:S5421X"!Global variables should be const.(Í´”8–è«µ1
-=	cpp:S5421Y"!Global variables should be const.(œµ«¶8–è«µ1
-¡	cpp:S6045Y"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(œµ«¶8–è«µ1
-B	cpp:S5421Z"!Global variables should be const.(Ã §ÿÿÿÿÿ8–è«µ1
-<	cpp:S5421["!Global variables should be const.(Á¥¤48–è«µ1
-B	cpp:S5421]"!Global variables should be const.(’ä¬ºüÿÿÿÿ8–è«µ1
-B	cpp:S5421^"!Global variables should be const.(Ø¢©°şÿÿÿÿ8–è«µ1
-<	cpp:S5421_"!Global variables should be const.(úÙø8–è«µ1
-=	cpp:S5421`"!Global variables should be const.(µ‚áÚ8–è«µ1
-=	cpp:S5421a"!Global variables should be const.(çù€°8–è«µ1
-¡	cpp:S6045a"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(çù€°8–è«µ1
-B	cpp:S5421b"!Global variables should be const.(î½Ä¸şÿÿÿÿ8–è«µ1
-¦	cpp:S6045b"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(î½Ä¸şÿÿÿÿ8–è«µ1
-<	cpp:S5421c"!Global variables should be const.(¿Ü$8–è«µ1
-=	cpp:S5421d"!Global variables should be const.(›Ğ•‹8–è«µ1
-=	cpp:S5421e"!Global variables should be const.(¿Õä8–è«µ1
-¡	cpp:S6045e"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(¿Õä8–è«µ1
-=	cpp:S5421g"!Global variables should be const.(ÉªŒ¢8–è«µ1
-¡	cpp:S6045g"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(ÉªŒ¢8–è«µ1
-B	cpp:S5421h"!Global variables should be const.(áêùÿÿÿÿ8–è«µ1
-¦	cpp:S6045h"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(áêùÿÿÿÿ8–è«µ1
-B	cpp:S5421j"!Global variables should be const.(˜Ê¿şÿÿÿÿ8–è«µ1
-<	cpp:S5421k"!Global variables should be const.(Ö¿ô	8–è«µ1
-B	cpp:S5421m"!Global variables should be const.(¸Èâ³ûÿÿÿÿ8–è«µ1
-¦	cpp:S6045m"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(¸Èâ³ûÿÿÿÿ8–è«µ1
-B	cpp:S5421n"!Global variables should be const.(›ûÎŞşÿÿÿÿ8–è«µ1
-¦	cpp:S6045n"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(›ûÎŞşÿÿÿÿ8–è«µ1
-B	cpp:S5421q"!Global variables should be const.(³›ÇŠüÿÿÿÿ8–è«µ1
-¦	cpp:S6045q"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(³›ÇŠüÿÿÿÿ8–è«µ1
-B	cpp:S5421r"!Global variables should be const.(«ÿš¦úÿÿÿÿ8–è«µ1
-¦	cpp:S6045r"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(«ÿš¦úÿÿÿÿ8–è«µ1
-=	cpp:S5421s"!Global variables should be const.(ÖÙŸ‘8–è«µ1
-=	cpp:S5421t"!Global variables should be const.(ÛÈŒø8–è«µ1
-B	cpp:S5421u"!Global variables should be const.(«¶ÿ¾ıÿÿÿÿ8–è«µ1
-B	cpp:S5421v"!Global variables should be const.(Ç•Ş¬şÿÿÿÿ8–è«µ1
-<	cpp:S5421w"!Global variables should be const.(Ã½ŒG8–è«µ1
-B	cpp:S5421x"!Global variables should be const.(³şÃÎÿÿÿÿÿ8–è«µ1
-B	cpp:S5421y"!Global variables should be const.(Ï’æ£ûÿÿÿÿ8–è«µ1
-=	cpp:S5421z"!Global variables should be const.(–Ñò’8–è«µ1
-B	cpp:S5421{"!Global variables should be const.(¸äù¥ÿÿÿÿÿ8–è«µ1
-=	cpp:S5421|"!Global variables should be const.(ì¥šè8–è«µ1
-<	cpp:S5421}"!Global variables should be const.(Ô‘—s8–è«µ1
-B	cpp:S5421~"!Global variables should be const.(¶åœ„şÿÿÿÿ8–è«µ1
-B	cpp:S5421"!Global variables should be const.(©ùÆ…şÿÿÿÿ8–è«µ1
->	cpp:S5421€"!Global variables should be const.(¼†¬8–è«µ1
-C	cpp:S5421"!Global variables should be const.(ÀŒ·âüÿÿÿÿ8–è«µ1
-C	cpp:S5421‚"!Global variables should be const.(¦Ï®’ÿÿÿÿÿ8–è«µ1
->	cpp:S5421ƒ"!Global variables should be const.(š‹ú8–è«µ1
-C	cpp:S5421„"!Global variables should be const.(Ô÷ãşÿÿÿÿ8–è«µ1
-C	cpp:S5421…"!Global variables should be const.(Ì€úÿÿÿÿ8–è«µ1
-C	cpp:S5421†"!Global variables should be const.(êÏ¼´ıÿÿÿÿ8–è«µ1
-C	cpp:S5421ˆ"!Global variables should be const.(¤¦Ÿúûÿÿÿÿ8–è«µ1
-=	cpp:S5421‰"!Global variables should be const.(õÕ¤)8–è«µ1
->	cpp:S5421‹"!Global variables should be const.(é¼¤Ê8–è«µ1
->	cpp:S5421Œ"!Global variables should be const.(ÇÙ¡ˆ8–è«µ1
-C	cpp:S5421"!Global variables should be const.(ÂÁŒ‡øÿÿÿÿ8–è«µ1
->	cpp:S5421"!Global variables should be const.(»Õ„ß8–è«µ1
-C	cpp:S5421"!Global variables should be const.(²Ôå”ùÿÿÿÿ8—è«µ1
-C	cpp:S5421“"!Global variables should be const.(ëÏéÎøÿÿÿÿ8—è«µ1
-C	cpp:S5421”"!Global variables should be const.(™–«şÿÿÿÿ8—è«µ1
->	cpp:S5421•"!Global variables should be const.(Å¯ş8—è«µ1
-„	cpp:S6012•"gAvoid explicitly specifying the template arguments by relying on the class template argument deduction.(Å¯ş8—è«µ1
-C	cpp:S5421–"!Global variables should be const.(®Ä°şùÿÿÿÿ8—è«µ1
-‰	cpp:S6012–"gAvoid explicitly specifying the template arguments by relying on the class template argument deduction.(®Ä°şùÿÿÿÿ8—è«µ1
-\	cpp:S1238À"?Pass expensive to copy object "filename" by reference to const.(åû¬™8—è«µ1
-X	cpp:S1238À";Pass expensive to copy object "delm" by reference to const.(åû¬™8—è«µ1
-F	cpp:S5817Í")This function should be declared "const".(µ»8—è«µ1
->	cpp:S5421à"!Global variables should be const.(İİÇä8—è«µ1
-C	cpp:S5421á"!Global variables should be const.(æûÁÈúÿÿÿÿ8—è«µ1
->	cpp:S5421â"!Global variables should be const.(„‚ÚŸ8—è«µ1
-w	cpp:S6004"UUse the init-statement to declare "innovization_bmps" inside the range-for statement.(¾£ûıÿÿÿÿ8 è«µ1
-h	cpp:S6004ã"FUse the init-statement to declare "reduce_it" inside the if statement.(ÑİÜâùÿÿÿÿ8£è«µ1
-w	cpp:S3776ö"URefactor this function to reduce its Cognitive Complexity from 113 to the 25 allowed.(ß±……şÿÿÿÿ8µè«µ1
-icpp:S134ÿ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(½¹¿á8¶è«µ1
-icpp:S134‘"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÕÑÓ8¶è«µ1
-ncpp:S134±"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Í–áóüÿÿÿÿ8¶è«µ1
-hcpp:S134å"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¿×Ó-8¶è«µ1
-€	cpp:S1172ö"^Remove the unused parameter "pollutant_id", make it unnamed, or declare it "[[maybe_unused]]".(ß±……şÿÿÿÿ8¶è«µ1
-C	cpp:S6197ü"!Replace with "std::ranges::find".(½ÈŞúúÿÿÿÿ8ßè«µ1
->	cpp:S6197‡"!Replace with "std::ranges::find".(˜­÷Î8áè«µ1
-€	cpp:S5350"^Make the type of this variable a reference-to-const. The current type of "innoBmp" is "int &".(¾£ûıÿÿÿÿ8éè«µ1
-C	cpp:S6197¢"!Replace with "std::ranges::find".(½ÈŞúúÿÿÿÿ8íè«µ1
->	cpp:S6197ÿ"!Replace with "std::ranges::find".(½¹¿á8‹é«µ1
->	cpp:S6197"!Replace with "std::ranges::find".(„ş¶8Œé«µ1
->	cpp:S6197ˆ"!Replace with "std::ranges::find".(˜Ë«¦8¦é«µ1
-R	cpp:S1659Ò"0Define each identifier in a dedicated statement.(Îü¾×ÿÿÿÿÿ8¦é«µ1
-C	cpp:S6197È"!Replace with "std::ranges::find".(°ÿ‹ûÿÿÿÿ8¦é«µ1
-C	cpp:S6197á"!Replace with "std::ranges::find".(ÜË“°ÿÿÿÿÿ8¦é«µ1
-C	cpp:S6197±"!Replace with "std::ranges::find".(Í–áóüÿÿÿÿ8·é«µ1
-	cpp:S1172‹"_Remove the unused parameter "from_corecast", make it unnamed, or declare it "[[maybe_unused]]".(ôÎúœşÿÿÿÿ8Ñé«µ1
-§	cpp:S6045—"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(İÊ“âûÿÿÿÿ8Óé«µ1
-§	cpp:S6045­"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(¹èºùÿÿÿÿ8Øé«µ1
-q	cpp:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 25 allowed.(•şì‰8ñé«µ1
-icpp:S134ˆ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ã¼¥8òé«µ1
-ncpp:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÎÌùõûÿÿÿÿ8òé«µ1
-ncpp:S134œ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(â¦úÿÿÿÿ8òé«µ1
->	cpp:S6197·"!Replace with "std::ranges::copy".(Ó“à­8“ê«µ1
->	cpp:S6197¸"!Replace with "std::ranges::copy".(ˆ«ØÚ8”ê«µ1
-ˆ	cpp:S1116ü"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(ãÈê­8 ê«µ1
-ˆ	cpp:S1116³	"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(‹Å¤Ü8¢ê«µ1
-[	cpp:S6032º"9Avoid this unnecessary copy by using a "const" reference.(ÓÅÉ…ÿÿÿÿÿ8Âê«µ1
-Z	cpp:S6005×"=Replace this declaration by a structured binding declaration.(½ù‰8Öê«µ1
-	cpp:S1172»	"_Remove the unused parameter "selected_bmps", make it unnamed, or declare it "[[maybe_unused]]".(Â§üÂıÿÿÿÿ8‰ë«µ1
-ˆ	cpp:S1116í	"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(ãÈê­8‹ë«µ1
-ˆ	cpp:S1116š"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(‹Å¤Ü8Œë«µ1
-_	cpp:S1155¿	"=Use "empty()" to check whether the container is empty or not.(ÔÃ’ùüÿÿÿÿ8ë«µ1
-M	cpp:S1659»
-"0Define each identifier in a dedicated statement.(ŒªĞ™8´ë«µ1
-ncpp:S134¢"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(èâ¨Âıÿÿÿÿ8ïë«µ1
-ˆ	cpp:S1116Ë"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(ãÈê­8ôë«µ1
-ˆ	cpp:S1116å"kModify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement.(‹Å¤Ü8öë«µ1
-p	cpp:S3776"TRefactor this function to reduce its Cognitive Complexity from 55 to the 25 allowed.(…˜Ê8Òì«µ1
-icpp:S134œ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ù ÑÔ8Óì«µ1
-ncpp:S134¤"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(›İÁøÿÿÿÿ8Ôì«µ1
-icpp:S134©"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(×¿éñ8Ôì«µ1
-ncpp:S134Ê"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(É‚¤şÿÿÿÿ8Ôì«µ1
-icpp:S134Ñ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ìß‹‡8Ôì«µ1
-icpp:S134Ö"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Æ¬òÛ8Ôì«µ1
-ncpp:S134Ş"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÄæÃŠüÿÿÿÿ8Ôì«µ1
-icpp:S134â"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ìÀˆ8Ôì«µ1
-C	cpp:S6197Ğ"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8ìì«µ1
-v	cpp:S3776„"TRefactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.(ˆè‚Óşÿÿÿÿ8ûì«µ1
-icpp:S134˜"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´•í»8üì«µ1
-icpp:S134±"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´•í»8üì«µ1
->	cpp:S6197Â"!Replace with "std::ranges::copy".(‚…“İ8üì«µ1
-C	cpp:S6197—"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8ƒí«µ1
-C	cpp:S6197°"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8í«µ1
-§	cpp:S6045é"„Use the transparent equality "std::equal_to<>" and a custom transparent heterogeneous hasher with this associative string container.(•™§‘øÿÿÿÿ8í«µ1
-•	cpp:S5350õ"xMake the type of this variable a reference-to-const. The current type of "bmp_per_parcel" is "class std::vector<int> &".(¦ ÁÎ8¡í«µ1
-=	cpp:S1905¡"Remove this redundant cast.(­ÔÃ¥ùÿÿÿÿ8²í«µ1
-Q	cpp:S6003§"4Replace this use of "push_back" with "emplace_back".(éê·Õ8´í«µ1
-V	cpp:S6003¿"4Replace this use of "push_back" with "emplace_back".(àúû–ûÿÿÿÿ8½í«µ1
-_	cpp:S6005Æ"=Replace this declaration by a structured binding declaration.(şÀÚûÿÿÿÿ8¿í«µ1
-[	cpp:S6032Æ"9Avoid this unnecessary copy by using a "const" reference.(şÀÚûÿÿÿÿ8¿í«µ1
-V	cpp:S6003Õ"4Replace this use of "push_back" with "emplace_back".(§­Ù˜úÿÿÿÿ8Åí«µ1
-C	cpp:S6197æ"!Replace with "std::ranges::find".(³‡Ì¸ûÿÿÿÿ8Ïí«µ1
-V	cpp:S6003ò"4Replace this use of "push_back" with "emplace_back".(ÊÿŠÕşÿÿÿÿ8Óí«µ1
-v	cpp:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 66 to the 25 allowed.(¬Ö®”ÿÿÿÿÿ8×í«µ1
-icpp:S134³"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´•í»8Ùí«µ1
-icpp:S134Ì"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´•í»8Ùí«µ1
-icpp:S134ò"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(´•í»8Ùí«µ1
-icpp:S134ı"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(•İ´µ8Ùí«µ1
-icpp:S134„"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ê­‚ä8Ùí«µ1
-icpp:S134‹"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ìÀˆ8Úí«µ1
-C	cpp:S6197²"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8èí«µ1
-C	cpp:S6197Ë"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8ïí«µ1
-C	cpp:S6197ñ"!Replace with "std::ranges::find".(ûå··ûÿÿÿÿ8ıí«µ1
-o	cpp:S1172Ö"SRemove the unused parameter "x", make it unnamed, or declare it "[[maybe_unused]]".(áÓ«98—î«µ1
-q	cpp:S1172×"TRemove the unused parameter "fx", make it unnamed, or declare it "[[maybe_unused]]".(õ‚ƒŒ8—î«µ1
-p	cpp:S1172Ø"SRemove the unused parameter "g", make it unnamed, or declare it "[[maybe_unused]]".(ğÑÖ”8—î«µ1
-Šcpp:S995Ö"oMake the type of this parameter a reference-to-const. The current type of "x" is "class std::vector<double> &".(áÓ«98—î«µ1
-Œcpp:S995×"pMake the type of this parameter a reference-to-const. The current type of "fx" is "class std::vector<double> &".(õ‚ƒŒ8—î«µ1
-‹cpp:S995Ø"oMake the type of this parameter a reference-to-const. The current type of "g" is "class std::vector<double> &".(ğÑÖ”8—î«µ1
-ncpp:S134²"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(«ó¬¬şÿÿÿÿ8î«µ1
-icpp:S134é"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ê­‚ä8®î«µ1
-\	cpp:S1238È"?Pass expensive to copy object "emo_uuid" by reference to const.(˜½ä8Ñî«µ1
-]	cpp:S1238É"@Pass expensive to copy object "exec_uuid" by reference to const.(‚ËÜã8Ñî«µ1
-	cpp:S1172Ç"_Remove the unused parameter "selected_bmps", make it unnamed, or declare it "[[maybe_unused]]".(Â§üÂıÿÿÿÿ8Ñî«µ1
-\	cpp:S1238ı"?Pass expensive to copy object "emo_uuid" by reference to const.(˜½ä8áî«µ1
-]	cpp:S1238ş"@Pass expensive to copy object "exec_uuid" by reference to const.(‚ËÜã8áî«µ1
-Z	cpp:S6005´"=Replace this declaration by a structured binding declaration.(½ù‰8ùî«µ1
-]	cpp:S1854ß"AValue stored to 'unit_id' during its initialization is never read(‹ÇS8¯ËÓ¶1
-]	cpp:S1854"AValue stored to 'unit_id' during its initialization is never read(‹ÇS8¯ËÓ¶1
-@	cpp:S1854š"#Value stored to 'pct' is never read(ƒò†Ú8¯ËÓ¶1
-N	cpp:S1854é",Value stored to 'reduce_index' is never read(Ğÿ®Õşÿÿÿÿ8¯ËÓ¶1
-G	cpp:S1854Š"*Value stored to 'parcel_idx' is never read(ÌÎ‘í8¯ËÓ¶1
-@	cpp:S1854µ"#Value stored to 'pct' is never read(ƒò†Ú8¯ËÓ¶1
-]	cpp:S1854ä";Value stored to 'h' during its initialization is never read(ÏÁéäûÿÿÿÿ8¯ËÓ¶1
-]	cpp:S1854æ"AValue stored to 'unit_id' during its initialization is never read(‹ÇS8¯ËÓ¶1
-I	cpp:S1854ø"'Value stored to 'unit_id' is never read(ß‘Ü¿ûÿÿÿÿ8¯ËÓ¶1
-^	cpp:S1854û"AValue stored to 'capital' during its initialization is never read(í¾£Ô8¯ËÓ¶1
-i	cpp:S1854¥"GValue stored to 'load_obtained' during its initialization is never read(½çÍüÿÿÿÿ8¯ËÓ¶1
-^	cpp:S1854¦"AValue stored to 'load_lb' during its initialization is never read(éÀ¿8¯ËÓ¶1
-]	cpp:S1854Ğ"@Value stored to 'nrows2' during its initialization is never read(÷øÚÛ8¯ËÓ¶1
-]	cpp:S1854½"AValue stored to 'unit_id' during its initialization is never read(‹ÇS8¯ËÓ¶1
-]	cpp:S1854"AValue stored to 'unit_id' during its initialization is never read(‹ÇS8¯ËÓ¶1
-?cpp:S125„"Remove the commented out code.(š”Åæüÿÿÿÿ8¶ËÓ¶1
-:cpp:S125ê"Remove the commented out code.(–±Ù8¶ËÓ¶1
-:cpp:S125È"Remove the commented out code.(–±Ù8¶ËÓ¶1
-?cpp:S125Â"Remove the commented out code.(«™ô­şÿÿÿÿ8¶ËÓ¶1
-?cpp:S125Å"Remove the commented out code.(Ò°„£úÿÿÿÿ8¶ËÓ¶1
-?cpp:S125™"Remove the commented out code.(ÏâÀ‰ûÿÿÿÿ8¶ËÓ¶1
-?cpp:S125"Remove the commented out code.(µıô±úÿÿÿÿ8¶ËÓ¶1
-?cpp:S125‘"Remove the commented out code.(“®Ïûÿÿÿÿ8¶ËÓ¶1
-?cpp:S125î"Remove the commented out code.(ĞÎúÚüÿÿÿÿ8¶ËÓ¶1
-?cpp:S125"Remove the commented out code.(ë˜·üÿÿÿÿ8¶ËÓ¶1
-:cpp:S125Ù"Remove the commented out code.(ÏËÓ8¶ËÓ¶1
-?cpp:S125ÿ"Remove the commented out code.(Åßñøüÿÿÿÿ8¶ËÓ¶1
-?cpp:S125ğ	"Remove the commented out code.(Åßñøüÿÿÿÿ8¶ËÓ¶1
-?cpp:S125Î"Remove the commented out code.(Åßñøüÿÿÿÿ8¶ËÓ¶1
-?cpp:S125ğ"Remove the commented out code.(Çá”İÿÿÿÿÿ8¶ËÓ¶1
-?cpp:S125Ñ"Remove the commented out code.(·øóÀüÿÿÿÿ8¶ËÓ¶1
-:cpp:S125ú"Remove the commented out code.(ô–ÇÉ8¶ËÓ¶1
-?cpp:S125ı"Remove the commented out code.(«ÊŸúøÿÿÿÿ8¶ËÓ¶1
-?cpp:S125‰"Remove the commented out code.(ƒœøàÿÿÿÿÿ8¶ËÓ¶1
-?cpp:S125µ"Remove the commented out code.(ƒœøàÿÿÿÿÿ8·ËÓ¶1
-?cpp:S125"Remove the commented out code.(ˆÄ‘Ğúÿÿÿÿ8·ËÓ¶1
-:cpp:S125’"Remove the commented out code.(Õˆÿá8·ËÓ¶1
-?cpp:S125¥"Remove the commented out code.(ŞÁ˜æúÿÿÿÿ8·ËÓ¶1
-?cpp:S125Ş"Remove the commented out code.(«ŸãŠÿÿÿÿÿ8·ËÓ¶1
-:cpp:S125–"Remove the commented out code.(ñ¨Ó¿8·ËÓ¶1
-:cpp:S125£"Remove the commented out code.(‚½¿Á8·ËÓ¶1
-?cpp:S125§"Remove the commented out code.(¢×²Ûıÿÿÿÿ8·ËÓ¶1
-:cpp:S125«"Remove the commented out code.(¹“¹8·ËÓ¶1
-9cpp:S125¼"Remove the commented out code.(Ö„˜u8·ËÓ¶1
-:cpp:S125ß"Remove the commented out code.(¯ì¯ı8·ËÓ¶1
